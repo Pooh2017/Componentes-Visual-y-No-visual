@@ -144,3 +144,18 @@ Este componente permite la generación de contraseñas, de manera aleatoria incl
 | Método      | `lblGeneradorPasswordMouseClicked(java.awt.event.MouseEvent evt)` | `void`                        | `java.awt.event.MouseEvent evt`                     | Genera y establece una nueva contraseña cuando se hace clic en la etiqueta. |
 
 ## Instalación
+Primero vamos a descargar nuestros comoponentes  desde githup o descargar el zip despues de eso lo vamos a descomprimir y vamos abrir el archivo en netbeans.
+![Descripción de la imagen](https://github.com/Pooh2017/Componentes-Visual-y-No-visual/raw/main/Imagenes/Captura%20de%20pantalla%202024-07-16%20212400.png)
+Despues de abir el archivo nos vamos al proyecto le damos click derecho abrira una ventana y le daras a clean and build
+![Descripción de la imagen](https://github.com/Pooh2017/Componentes-Visual-y-No-visual/blob/main/Imagenes/Captura%20de%20pantalla%202024-07-16%20212448.png)
+Ahora ya solo tenemos que añadirlo a la paleta nos situaremos en el archivo le daremos click derecho nos iremos a tools  y luego add palette.. despues 
+![Descripción de la imagen](https://github.com/Pooh2017/Componentes-Visual-y-No-visual/blob/main/Imagenes/Captura%20de%20pantalla%202024-07-16%20212511.png)
+Despues solo queda en donde queremos guardar el componente le daremos ok
+![Descripción de la imagen](https://github.com/Pooh2017/Componentes-Visual-y-No-visual/blob/main/Imagenes/Captura%20de%20pantalla%202024-07-16%20212526.png)
+El resultado de esto es algo asi
+![Descripción de la imagen](https://github.com/Pooh2017/Componentes-Visual-y-No-visual/blob/main/Imagenes/Captura%20de%20pantalla%202024-07-16%20212329.png)
+## Funcionamiento
+¡Descubre cómo funciona este componente visual Generador de Contraseñas y el control de base de datos! ---->https://youtu.be/Iq94rNB06PE
+## Instalación
+Lopez Gonzalez Eder Denilson - Estudiante del ITO - [Pooh2017](https://github.com/Pooh2017)
+Eduardo Jiménez Mendoza- Estudiante del ITO
