@@ -158,4 +158,5 @@ El resultado de esto es algo asi
 ¡Descubre cómo funciona este componente visual Generador de Contraseñas y el control de base de datos! ---->https://youtu.be/Iq94rNB06PE
 ## Instalación
 Lopez Gonzalez Eder Denilson - Estudiante del ITO - [Pooh2017](https://github.com/Pooh2017)
+
 Eduardo Jiménez Mendoza- Estudiante del ITO
